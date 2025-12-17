@@ -20,5 +20,6 @@ business decision-making.
 - Python Data Automation
 
 ## Contact
-- LinkedIn:
-- Email: 
+- LinkedIn:[Connect with me on LinkedIn](www.linkedin.com/in/arsha-gopal-922b56165)
+
+- Email: [Email Me](mailto:arshavenugopalan@gmai.com)
