@@ -6,7 +6,6 @@ for credit card delinquency.
 
 ## Tools Used
 - Python (Pandas, Matplotlib)
-- SQL
 - Exploratory Data Analysis
 
 ## Key Focus Areas
